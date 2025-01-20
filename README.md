@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Adrián Camilo Guerra Polo!  
 
-<!--
-**adrian-blip/adrian-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **desarrollador web** apasionado por la **creación y dinamización de sitios web** y el **diseño**. Me encanta trabajar en proyectos que combinen funcionalidad y estética. Actualmente estoy ampliando mis habilidades aprendiendo **Node.js** y otras tecnologías modernas.
 
-Here are some ideas to get you started:
+## 🚀 Acerca de mí  
+- 🌱 Actualmente estoy aprendiendo: **Node.js** y desarrollo backend.  
+- 💬 Pregúntame sobre: **HTML, CSS, JavaScript** y diseño web.  
+- 📫 Cómo contactarme: adriancamiloguerra@gmail.com.  
+- ⚡ Dato curioso: Siempre busco nuevas formas de hacer las webs más interactivas y atractivas.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estadísticas de GitHub  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)  
+
+## 🌐 Encuéntrame en  
+- [LinkedIn](https://www.linkedin.com/in/adrian-guerra-5614881b7/)  
+ 
+
+
+
