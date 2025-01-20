@@ -15,11 +15,7 @@ Soy un **desarrollador web** apasionado por la **creación y dinamización de si
 ### Lenguajes más usados  
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-blip&layout=compact&theme=radical)  
 
-### Racha de contribuciones  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adrian-blip&theme=radical)  
-
-### Actividad reciente  
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=adrian-blip&theme=radical)](https://github.com/adrian-blip)    
+  
 
 ## 🌐 Encuéntrame en  
 - [LinkedIn](https://www.linkedin.com/in/adrian-guerra-5614881b7/)  
