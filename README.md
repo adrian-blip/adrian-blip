@@ -36,7 +36,6 @@ const adrian = {
     conceptos:  ["Responsive Design", "UI/UX", "Componentes reutilizables", "REST APIs"]
   },
 
-  estudiando:   "FP Superior DAW · Holberton School Alumni",
   buscando:     "Oportunidad remota para crecer como developer 🚀"
 };
 ```
