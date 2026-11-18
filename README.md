@@ -125,7 +125,6 @@ const adrian = {
 
 | | |
 |---|---|
-| 📘 **FP Grado Superior — Desarrollo de Aplicaciones Web (DAW)** | En curso |
 | 🏫 **Holberton School** — Full Stack Development | 2021 – 2023 |
 
 ---
